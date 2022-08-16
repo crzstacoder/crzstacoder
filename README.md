@@ -1,11 +1,9 @@
-### Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Crzstarcoder&animation=fadein&fontSize=90)
 
-<imf src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Crzstarcoder&fontSize=90&animation=fadein"/>
+# Hi there 👋
 
-
-
-
-
+### tech🛠️
+ <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
 
 <!--
 **crzstacoder/crzstacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
