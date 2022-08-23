@@ -17,10 +17,13 @@
   ### 📚 Semi_info 📚
   MBTI : ENFP   
   Age : 19   
-  Like : guitar🎸, LegueOfLegend🎮, fried_egg🍳, CS_knowledge📖, team_project🤝   
+  Like : guitar🎸, LegueOfLegend🎮, fried_egg🍳,   
+  CS_knowledge📖, team_project🤝   
      
-  ### 
-     
+  ### 📖 Last Blog Post
+  [[Portfolio]mRNA 번역 프로그램 만들기](https://crzstacoder.github.io/portfolio/mrna/)
+  
+  
   ### 💪 Github stats 💪
   ![crzstacoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=crzstacoder&show_icons=true&theme=tokyonight)
   
