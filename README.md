@@ -21,7 +21,7 @@
   CS_knowledge📖, team_project🤝   
      
   ### 📖 Last Blog Post
-  [[Portfolio]mRNA 번역 프로그램 만들기](https://crzstacoder.github.io/portfolio/mrna/)
+  [[CS] NAT와 포트포워딩](https://crzstacoder.github.io/cs/nat/)
   
   
   ### 💪 Github stats 💪
