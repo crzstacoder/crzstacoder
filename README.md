@@ -21,7 +21,7 @@
   CS_knowledge📖, team_project🤝   
      
   ### 📖 Last Blog Post
-  [[CS] NAT와 포트포워딩](https://crzstacoder.github.io/cs/nat/)
+  [Java 공부하기 - 시작](https://crzstacoder.github.io/java/javastart/)
   
   
   ### 💪 Github stats 💪
