@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Crazystarcoder🐋&animation=fadein&fontSize=90)
+(https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Crazystarcoder🐋&animation=fadein&fontSize=90)
 <div align="center">
   
   # 🐋 Crazystarcoder's profile 🐋
