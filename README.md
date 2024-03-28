@@ -4,7 +4,7 @@
 
   
   ### 🙌 Introdution 🙌
-  안녕하세요! 벡엔드 시니어 개발자를 목표로 공부하고있는 초보개발자입니다🐋
+  Light of stars, Looks like going crazy
 
   
   
@@ -17,9 +17,11 @@
   ### 📚 Semi_info 📚
   MBTI : ENFP   
      
-  Age : 20    
+  Age : 21   
+
+  Present : Ready to Univ which is in seoul
      
-  Major in : Bigdata, ContentsIT   
+  Major in : Software   
      
   Club : C_AE_RANG _ //tag//   
      
