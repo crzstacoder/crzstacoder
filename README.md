@@ -19,7 +19,7 @@
      
   Age : 21   
 
-  Present : Ready to Univ which is in seoul
+  Present : Ready to Univ. in seoul
      
   Major in : Software   
      
